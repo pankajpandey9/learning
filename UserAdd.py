@@ -9,6 +9,6 @@ def func1(mystr):
 	elif(myname == "pandey - Elif loop-test extra data"):
 		print("theek")
 	else:
-		print("kutiya - Else-testing is done1")
+		print("kutiya - Else")
 
 func1("Hello fun1")
